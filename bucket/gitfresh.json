@@ -1,0 +1,32 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/apolo96/gitfresh/releases/download/v1.0.0/gitfresh_Windows_i386.zip",
+            "bin": [
+                "gitfresh.exe",
+                "gitfreshd.exe"
+            ],
+            "hash": "d977fe4ddac9ad22823a6f647ab850698af425a063fdb5ebba572820e17d89fe"
+        },
+        "64bit": {
+            "url": "https://github.com/apolo96/gitfresh/releases/download/v1.0.0/gitfresh_Windows_x86_64.zip",
+            "bin": [
+                "gitfresh.exe",
+                "gitfreshd.exe"
+            ],
+            "hash": "c43aa2bf0013b10bbb386bfd461077867b5c1d2feae8b09257c44131280ba8ff"
+        },
+        "arm64": {
+            "url": "https://github.com/apolo96/gitfresh/releases/download/v1.0.0/gitfresh_Windows_arm64.zip",
+            "bin": [
+                "gitfresh.exe",
+                "gitfreshd.exe"
+            ],
+            "hash": "7ed813018cf758694ad3ea1e074b1fe567a97b2decfcfb3fcafcb79a46ac10de"
+        }
+    },
+    "homepage": "https://github.com/apolo96/gitfresh",
+    "license": "MIT",
+    "description": "A DX Tool to keep the git repositories updated"
+}
