@@ -7,7 +7,7 @@
                 "gitfresh.exe",
                 "gitfreshd.exe"
             ],
-            "hash": "d977fe4ddac9ad22823a6f647ab850698af425a063fdb5ebba572820e17d89fe"
+            "hash": "7e0fcf60a172f576ef0c3ef2217e7c54872c5dcecd0e21cba202b71ae73366c3"
         },
         "64bit": {
             "url": "https://github.com/apolo96/gitfresh/releases/download/v1.0.0/gitfresh_Windows_x86_64.zip",
@@ -15,7 +15,7 @@
                 "gitfresh.exe",
                 "gitfreshd.exe"
             ],
-            "hash": "c43aa2bf0013b10bbb386bfd461077867b5c1d2feae8b09257c44131280ba8ff"
+            "hash": "1391557746613ff1f80c219d6c5a03e841cdfebce1f19b91357ac4a19132492f"
         },
         "arm64": {
             "url": "https://github.com/apolo96/gitfresh/releases/download/v1.0.0/gitfresh_Windows_arm64.zip",
@@ -23,7 +23,7 @@
                 "gitfresh.exe",
                 "gitfreshd.exe"
             ],
-            "hash": "7ed813018cf758694ad3ea1e074b1fe567a97b2decfcfb3fcafcb79a46ac10de"
+            "hash": "d36c8e4d4a5cf63f6fb01e5028618f5fed722b321c5e3f7439ea542283eb7b45"
         }
     },
     "homepage": "https://github.com/apolo96/gitfresh",
